@@ -1,0 +1,6 @@
+node_modules
+dump.sql
+files
+dist
+pgdata
+\.eslintrc\.js
