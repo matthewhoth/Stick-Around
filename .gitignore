@@ -4,3 +4,7 @@ files
 dist
 pgdata
 \.eslintrc\.js
+.next/
+.build/
+layout.md
+variables.env
